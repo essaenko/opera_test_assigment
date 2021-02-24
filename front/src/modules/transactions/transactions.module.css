@@ -1,0 +1,7 @@
+.root {
+  margin-top: 20px;
+}
+
+.root .badge:hover {
+  cursor: pointer; 
+}
