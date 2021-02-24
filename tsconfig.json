@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "outDir": "./build",
+    "target": "es5",
+    "resolveJsonModule": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "./**/*.ts",
+  ],
+  "exclude": [
+    "./front/*"
+  ]
+}
